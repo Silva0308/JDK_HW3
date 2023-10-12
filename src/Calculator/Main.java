@@ -1,3 +1,7 @@
+package Calculator;
+
+import Calculator.Calculator;
+
 public class Main {
     public static void main(String[] args) {
         int a = 10;
